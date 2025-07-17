@@ -165,6 +165,7 @@ Karina Cali.
 Jenniffer Lainez.
 José Navarro.
 Rubén Acebo.
+**Email**: mery.romero@uees.edu.ec - jose.navarro@uees.edu.ec - jenniffer.lainez@uees.edu.ec - karina.cali@uees.edu.ec - racebo@uees.edu.ec
 
 **Institución**: Universidad Espíritu Santo (UEES)  
 **Programa**: Maestría en Inteligencia de Negocios y Ciencia de Datos  
